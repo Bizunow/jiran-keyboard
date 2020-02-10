@@ -1886,11 +1886,11 @@ F 3 "" H 10545 1925 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 9845 1525 1    50   ~ 0
-CAPS
-Text Label 10195 1525 1    50   ~ 0
-SCROLL
-Text Label 10545 1525 1    50   ~ 0
 NUM
+Text Label 10195 1525 1    50   ~ 0
+CAPS
+Text Label 10545 1525 1    50   ~ 0
+SCROLL
 Text Label 2640 1745 0    50   ~ 0
 CAPS
 Text Label 2640 1845 0    50   ~ 0
