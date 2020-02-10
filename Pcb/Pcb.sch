@@ -1892,11 +1892,11 @@ CAPS
 Text Label 10545 1525 1    50   ~ 0
 SCROLL
 Text Label 2640 1745 0    50   ~ 0
-CAPS
+NUM
 Text Label 2640 1845 0    50   ~ 0
 SCROLL
 Text Label 2640 1945 0    50   ~ 0
-NUM
+CAPS
 $Comp
 L power:GND #PWR0106
 U 1 1 5DC1A713
